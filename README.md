@@ -12,12 +12,12 @@ Download the app from the [releases](https://github.com/kenneth-lau/just-java-ap
 
 ### English version 
 
-![English](/media/just-java-en.png)
+<img src="/media/just-java-en.png" alt="English" width="350px">
 
 ### Japanese version
 
-![Japanese](/media/just-java-ja.png)
+<img src="/media/just-java-ja.png" alt="Japanese" width="350px">
 
 ### Spanish version
 
-![Spanish](/media/just-java-es.png)
+<img src="/media/just-java-es.png" alt="Spanish" width="350px">
