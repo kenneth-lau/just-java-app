@@ -13,15 +13,15 @@ Download the app from the [releases](https://github.com/kenneth-lau/just-java-ap
 ### English version 
 
 <p float="left">
-<img src="/media/just-java.gif" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" width="350px">
-<img src="/media/just-java-en.png" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" width="350px">
+<img src="/media/just-java.gif" style="float: left; margin-right: 10px; margin-bottom: 0.5em;" width="350px">
+<img src="/media/just-java-en.png" style="float: left; margin-right: 10px; margin-bottom: 0.5em;" width="350px">
 </p>
 
 ### Japanese version
 
 <p float="left">
-<img src="/media/just-java-japanese.gif" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" width="350px">
-<img src="/media/just-java-ja.png" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" width="350px">
+<img src="/media/just-java-japanese.gif" style="float: left; margin-right: 10px; margin-bottom: 0.5em;" width="350px">
+<img src="/media/just-java-ja.png" style="float: left; margin-right: 10px; margin-bottom: 0.5em;" height="658px">
 </p>
 
 ### Spanish version
